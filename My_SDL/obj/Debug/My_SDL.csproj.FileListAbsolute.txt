@@ -1,0 +1,7 @@
+D:\Documents\Visual Studio 2017\Projects\My_SDL\My_SDL\bin\Debug\My_SDL.exe.config
+D:\Documents\Visual Studio 2017\Projects\My_SDL\My_SDL\bin\Debug\My_SDL.exe
+D:\Documents\Visual Studio 2017\Projects\My_SDL\My_SDL\bin\Debug\My_SDL.pdb
+D:\Documents\Visual Studio 2017\Projects\My_SDL\My_SDL\obj\Debug\My_SDL.csprojAssemblyReference.cache
+D:\Documents\Visual Studio 2017\Projects\My_SDL\My_SDL\obj\Debug\My_SDL.csproj.CoreCompileInputs.cache
+D:\Documents\Visual Studio 2017\Projects\My_SDL\My_SDL\obj\Debug\My_SDL.exe
+D:\Documents\Visual Studio 2017\Projects\My_SDL\My_SDL\obj\Debug\My_SDL.pdb
